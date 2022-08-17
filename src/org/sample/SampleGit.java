@@ -20,6 +20,7 @@ public class SampleGit {
 		System.out.println("New coding added here now");
 		System.out.println("New coding added here now");
 		System.out.println("new update added today");
+		System.out.println("new update added today");
 		
 	}
 
